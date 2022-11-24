@@ -6,6 +6,10 @@
     text-align: center;
 }
 
+p {
+    font-size: 18px;
+}
+
 img {
     display: block;
     margin-left: auto;
@@ -13,12 +17,12 @@ img {
     width: 100%;
 }
 
-ul {
+ul, ol {
     display: inline-block;;
 }
 
 .container li {
     text-align: left;
-    font-size: 20px;
-    padding: 5px;
+    font-size: 18px;
+    padding: 4px;
 }
